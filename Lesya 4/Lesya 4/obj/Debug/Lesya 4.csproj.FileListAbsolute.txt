@@ -1,0 +1,10 @@
+C:\Users\Danil\source\repos\Lesya 4\Lesya 4\bin\Debug\Lesya 4.exe.config
+C:\Users\Danil\source\repos\Lesya 4\Lesya 4\bin\Debug\Lesya 4.exe
+C:\Users\Danil\source\repos\Lesya 4\Lesya 4\bin\Debug\Lesya 4.pdb
+C:\Users\Danil\source\repos\Lesya 4\Lesya 4\obj\Debug\Lesya 4.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Lesya 4\Lesya 4\obj\Debug\Lesya_4.Form1.resources
+C:\Users\Danil\source\repos\Lesya 4\Lesya 4\obj\Debug\Lesya_4.Properties.Resources.resources
+C:\Users\Danil\source\repos\Lesya 4\Lesya 4\obj\Debug\Lesya 4.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Lesya 4\Lesya 4\obj\Debug\Lesya 4.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Lesya 4\Lesya 4\obj\Debug\Lesya 4.exe
+C:\Users\Danil\source\repos\Lesya 4\Lesya 4\obj\Debug\Lesya 4.pdb
